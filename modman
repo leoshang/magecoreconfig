@@ -1,0 +1,2 @@
+core-mage-payment-config.xml            app/code/core/Mage/Payment/etc/config.xml
+Zzz-disable-core-modules.xml            app/etc/modules/Zzz-disable-core-modules.xml
