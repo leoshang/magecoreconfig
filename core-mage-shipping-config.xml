@@ -134,9 +134,9 @@
                 <checkout_multiple_maximum_qty>100</checkout_multiple_maximum_qty>
             </option>
             <origin>
-                <country_id>US</country_id>
-                <postcode>90034</postcode>
-                <region_id>12</region_id>
+                <country_id>AUS</country_id>
+                <postcode>2066</postcode>
+                <region_id>1</region_id>
             </origin>
         </shipping>
         <carriers>
