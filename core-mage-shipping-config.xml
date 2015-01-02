@@ -134,9 +134,10 @@
                 <checkout_multiple_maximum_qty>100</checkout_multiple_maximum_qty>
             </option>
             <origin>
-                <country_id>AUS</country_id>
+                <country_id>AU</country_id>
                 <postcode>2066</postcode>
-                <region_id>1</region_id>
+                <region_id>NSW</region_id>
+                <city>Lane Cove North</city>
             </origin>
         </shipping>
         <carriers>
