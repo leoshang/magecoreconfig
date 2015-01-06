@@ -2,9 +2,3 @@ app/code/core/Mage/Core/etc/config.xml          app/code/core/Mage/Core/etc/conf
 app/code/core/Mage/Payment/etc/config.xml       app/code/core/Mage/Payment/etc/config.xml
 app/code/core/Mage/Shipping/etc/config.xml      app/code/core/Mage/Shipping/etc/config.xml
 Zzz-disable-core-modules.xml                    app/etc/modules/Zzz-disable-core-modules.xml
-app/etc/modules/Mage_All.xml                    app/etc/modules/Mage_All.xml
-app/etc/modules/Mage_Authorizenet.xml           app/etc/modules/Mage_Authorizenet.xml
-app/etc/modules/Mage_Downloadable.xml           app/etc/modules/Mage_Downloadable.xml
-app/etc/modules/Mage_Weee.xml                   app/etc/modules/Mage_Weee.xml
-app/etc/modules/Mage_XmlConnect.xml             app/etc/modules/Mage_XmlConnect.xml
-app/etc/modules/Phoenix_Moneybookers.xml        app/etc/modules/Phoenix_Moneybookers.xml
